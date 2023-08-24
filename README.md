@@ -68,8 +68,6 @@ To run the code in the provided repository from source.
 	```
 
 
-	```
-
 # Conclusion
 
 This project shows that machine learning models can be used to accurately classify RNA sequences into coding or non-coding sequences based on various features. The models implemented in this project can be further optimized and used in various biological applications, such as identifying potential drug targets and understanding gene expression. So, let's go and explore the world of RNA with Machine Learning! 
